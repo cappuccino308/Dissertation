@@ -2,9 +2,9 @@
 
 Appendix 1: Full Evidence Map
 This is the full list of included papers and extracted data.
-  Sheet 1: Bibliography
-  Sheet 2: Location and study setting data
-  Sheet 3: Coded data 
+- Sheet 1: Bibliography
+- Sheet 2: Location and study setting data
+- Sheet 3: Coded data 
 
 Appendix 2: Coding descriptors 
 All data categories are described to improve reproducibility.
