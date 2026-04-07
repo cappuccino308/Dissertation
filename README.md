@@ -1,5 +1,9 @@
 # Dissertation
 
+This is the Github repository for "Mapping 40 years of ocean research: knowledge gaps and research biases surrounding Chile’s protected areas", by Emily Kemp.
+
+This is an undergraduate dissertation project, which uses systematic mapping methods to analyse the available literature on Chile's marine protected areas. The data and coding scripts are provided here to ensure that the study is reproducible, and all data is referenced in the bibliography. 
+
 Appendix 1: Full Evidence Map
 - This is the full list of included papers and extracted data.
     - Sheet 1: Bibliography
