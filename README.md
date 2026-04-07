@@ -17,6 +17,7 @@ Appendix 4: List of articles excluded during full text screening
 
 Appendix 5: Consistency assessment
 - This includes the list of papers screened by a second reviewer, and the level of agreement used to calculate a Cohen’s Kappa score.
+- File name = "consistency_score_calculations"
 
 Appendix 6: R Scripts for data analysis and visualisation
 - Folder name = "R_scripts"
