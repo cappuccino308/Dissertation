@@ -1,0 +1,498 @@
+Bibliographic,,,,,,,,,,,,,,
+ID,Author,Data point,Site name(s),"Type(s) of SMM
+
+Reserve, Park, MEABR, MPA, Multiple use MPA, National protected asset",Seasonality of SMM,Age of SMM (years) (establishment-completed data collection),Size of SMM (ha),Description of location,Latitude,Longitude,Management information (fishing),Management information (excluding fishing),Governance,Study environment
+#378,Castilla 2007,1,Las Cruces ECIM (Estacion Costera de Investigaciones Marinas),No-take MPA,N/A,20,Not given,"Punta El Lacho coast, Las Cruces",33°30? S, 71°38? W,"No take, Fencing","No access, Fencing",N/A,Inshore
+#307,Gelcich 2012,1,"Las Cruces ECIM (Estacion Costera de Investigaciones Marinas)
+",No-take MPA,N/A,27,20,Las Cruces,Not given,Not given,No-take,N/A,Pontificia Universidad Católica,Inshore
+#307,Gelcich 2012,2,Unspecified / not named,TURF,N/A,7,40,"North of Algarrobo, 40km North of Las Cruces",Not given,Not given,Low-enforcement,N/A,Artisanal fishers,Inshore
+#307,Gelcich 2012,3,El Quisco,TURF,N/A,12,180,El Quisco,Not given,Not given,High-enforcement,N/A,Artisanal fishers,Inshore
+#307,Gelcich 2012,4,El Quisco,TURF,N/A,12,60,El Quisco,Not given,Not given,High-enforcement,N/A,Artisanal fishers,Inshore
+#307,Gelcich 2012,5,El Quisco,TURF,N/A,12,40,El Quisco,Not given,Not given,High-enforcement,N/A,Artisanal fishers,Inshore
+#307,Gelcich 2012,6,Unspecified / not named,TURF,N/A,7,120,Between Las Cruces and El Quisco,Not given,Not given,Low-enforcement,N/A,Artisanal fishers,Inshore
+#307,Gelcich 2012,7,Unspecified / not named,TURF,N/A,7,175,Between Las Cruces and El Quisco,Not given,Not given,Low-enforcement,N/A,Artisanal fishers,Inshore
+#276,AlonsoVega 2014,1,Isla Grande de Atacama,No-take MPA,N/A,26,N/A,Northern Chilean coast,"27,248° S","70,974° W",No harvest / extraction,N/A,N/A,Inshore
+#276,AlonsoVega 2014,2,Isla Choros Marine Reserve,No-take MPA,N/A,N/A,N/A,Isla Choros,"29,259° S","71,535° W",N/A,N/A,N/A,Inshore
+#276,AlonsoVega 2014,3,Totoral Bajo,MEABR ,N/A,N/A,N/A,Totoral Bajo,"27,757° S","71,064° W",N/A,N/A,N/A,Inshore
+#276,AlonsoVega 2014,4,Caleta Angosta,MEABR ,N/A,N/A,N/A,Caleta Angosta,"28,250° S","71,163 ° W",N/A,N/A,N/A,Inshore
+#276,AlonsoVega 2014,5,Lagunillas,MEABR ,N/A,N/A,N/A,Lagunillas,"30,103° S","71,383° W",N/A,N/A,N/A,Inshore
+#276,AlonsoVega 2014,6,Talquilla,MEABR ,N/A,N/A,N/A,Talquilla,"30,864° S","71,683° W",N/A,N/A,N/A,Inshore
+#222,Fernandez 2017,1,Las Cruces,No-take MPA,N/A,32,Not given,Las Cruces,"Between 32.6ºS 
+and 33.5ºS",Not given,No-take,N/A,Not given,Inshore
+#222,Fernandez 2017,2,Maitencillo,TURF,N/A,Not given,Not given,Maitencillo,"Between 32.6ºS 
+and 33.5ºS",Not given,N/A,N/A,Artisanal fishers,Inshore
+#222,Fernandez 2017,3,Laguna Verde,TURF,N/A,Not given,Not given,Laguna Verde,"Between 32.6ºS 
+and 33.5ºS",Not given,N/A,N/A,Artisanal fishers,Inshore
+#222,Fernandez 2017,4,Quintay,TURF,N/A,Not given,Not given,Quintay,"Between 32.6ºS 
+and 33.5ºS",Not given,N/A,N/A,Artisanal fishers,Inshore
+#222,Fernandez 2017,5,El Quisco,TURF,N/A,Not given,Not given,El Quisco,"Between 32.6ºS 
+and 33.5ºS",Not given,N/A,N/A,Artisanal fishers,Inshore
+#215,Andreu-Cazenave 2017,1,Las Cruces,No-take MPA,N/A,32,Not given,Las Cruces,Between 33°11’ and 33°30’ S.,Not given,No-take,N/A,N/A,Inshore
+#215,Andreu-Cazenave 2017,2,Unspecified / not named,TURF,N/A,Not given,Not given,Algarrobo,Between 33°11’ and 33°30’ S.,Not given,N/A,N/A,"Artisanal fishers, National Fisheries Service",Inshore
+#215,Andreu-Cazenave 2017,3,Unspecified / not named,TURF,N/A,Not given,Not given,Algarrobo ,Between 33°11’ and 33°30’ S.,Not given,N/A,N/A,"Artisanal fishers, National Fisheries Service",Inshore
+#215,Andreu-Cazenave 2017,4,Unspecified / not named,TURF,N/A,Not given,Not given,Algarrobo ,Between 33°11’ and 33°30’ S.,Not given,N/A,N/A,"Artisanal fishers, National Fisheries Service",Inshore
+#215,Andreu-Cazenave 2017,5,Unspecified / not named,TURF,N/A,Not given,Not given,Quintay,Between 33°11’ and 33°30’ S.,Not given,N/A,N/A,"Artisanal fishers, National Fisheries Service",Inshore
+#215,Andreu-Cazenave 2017,6,Unspecified / not named,TURF,N/A,Not given,Not given,Quintay,Between 33°11’ and 33°30’ S.,Not given,N/A,N/A,"Artisanal fishers, National Fisheries Service",Inshore
+#101,Gonzalez-Roca 2021,1,Isla Grande de Atacama,MPA,N/A,12,,Isla Grande de Atacama,Between 26° S and 32° S,Not given,"Multi-use management, restricted harvesting",N/A,N/A,Inshore
+#101,Gonzalez-Roca 2021,2,Isla Choros Marine Reserve,MPA,N/A,12,,Isla Choros-Damas,Between 26° S and 32° S,Not given,No-take,N/A,N/A,Inshore
+#101,Gonzalez-Roca 2021,3,Totoral Bajo,TURF,N/A,16,,Totoral Bajo,Between 26° S and 32° S,Not given,N/A,N/A,Artisanal fishers,Inshore
+#101,Gonzalez-Roca 2021,4,Caleta Angosta,TURF,N/A,16,,Caleta Angosta,Between 26° S and 32° S,Not given,N/A,N/A,Artisanal fishers,Inshore
+#101,Gonzalez-Roca 2021,5,Lagunillas,TURF,N/A,16,,Lagunillas,Between 26° S and 32° S,Not given,N/A,N/A,Artisanal fishers,Inshore
+#101,Gonzalez-Roca 2021,6,Talquilla,TURF,N/A,16,,Talquilla,30.9 S,Not given,N/A,N/A,Artisanal fishers,Inshore
+#37,Lopez 2024,1,Unspecified / not named,MPA,N/A,N/A,N/A,North Mediterranean District (MED),Between 33°S-37°S,Not given,No / low harvest,N/A,N/A,Benthic
+#37,Lopez 2024,2,Unspecified / not named,MPA,N/A,N/A,N/A,Meridional District (MD),Between 37°S-42°S,Not given,No / low harvest,N/A,N/A,Benthic
+#37,Lopez 2024,3,Unspecified / not named,TURF,N/A,N/A,N/A,North Mediterranean District (MED),Between 33°S-37°S,Not given,Intermediate harvest,N/A,"Artisanal fishers, Government",Benthic
+#37,Lopez 2024,4,Unspecified / not named,TURF,N/A,N/A,N/A,South Mediterranean District (MED),Between 33°S-37°S,Not given,Intermediate harvest,N/A,"Artisanal fishers, Government",Benthic
+#37,Lopez 2024,5,Unspecified / not named,TURF,N/A,N/A,N/A,Meridional District (MD),Between 37°S-42°S,Not given,Intermediate harvest,N/A,"Artisanal fishers, Government",Benthic
+#37,Lopez 2024,6,Unspecified / not named,TURF,N/A,N/A,N/A,Meridional District (MD),Between 37°S-42°S,Not given,Intermediate harvest,N/A,"Artisanal fishers, Government",Benthic
+#37,Lopez 2024,7,Unspecified / not named,TURF,N/A,N/A,N/A,South Meridional District (MD),Between 37°S-42°S,Not given,Intermediate harvest,N/A,"Artisanal fishers, Government",Benthic
+#23,Contreras-Drey 2024,1,Las Cruces,MPA,N/A,N/A,N/A,"Las Cruces, Valparaiso region",Not given,Not given,No-take,N/A,Pontificia Universidad Catolica de Chile ,Coastal
+#23,Contreras-Drey 2024,2,Maitencillo,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,3,El Quisco,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,4,Valparaiso,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,5,Quintero,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,6,Las Cruces,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,7,Unspecified / not named,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,8,Unspecified / not named,TURF,N/A,N/A,N/A,Valparaiso region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,9, Las Cruces,TURF,N/A,N/A,N/A,Tarapaca Region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,10, Las Cruces,TURF,N/A,N/A,N/A,Tarapaca Region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,11, Las Cruces,TURF,N/A,N/A,N/A,Tarapaca Region,Not given,Not given,N/A,N/A,N/A,Coastal
+#23,Contreras-Drey 2024,12, Las Cruces,TURF,N/A,N/A,N/A,Tarapaca Region,Not given,Not given,N/A,N/A,N/A,Coastal
+#174,Chaverra 2019,1,Estación Costera de Investigaciones Marinas (ECIM),No-take MPA,N/A,33,10ha,Las Cruces,,,,,,
+#174,Chaverra 2019,2,El Quisco,TURF,N/A,22,N/A,El Quisco,,,,,Fishermen's Union,
+#370,Loot 2008,1,Las Cruces (ECIM),No-take MPA,N/A,20,N/A,Las Cruces,33°31? S, 71°38? W,No-take,N/A,N/A,Inshore
+#402,Loot 2005,1,Las Cruces (ECIM),No-take MPA,N/A,20,N/A,Las Cruces,33°31? S, 71°38? W,No-take,N/A,Pontificia Universidad Católica de Chile,Inshore
+#402,Loot 2005,2,Caleta El Quisco,MEA,N/A,N/A,N/A,Caleta El Quisco,33° 23? S,71° 42? W,Regulated catch sizes and amounts,N/A,Fishers,Inshore
+#295,Friedlander 2013,1,Motu Motiro Hiva Marine Park,No-take MPA,N/A,1,15000000 ha,Salas y Gomez Island,N/A,N/A,No-take,N/A,Government,Benthic
+#292,Wood 2013,1,Las Cruces ,No-take MPA,N/A,26,20ha,Las Cruces,N/A,N/A,No-take,Closed to public,Artisanal fishers,N/A
+#292,Wood 2013,2,Caleto El Quisco,MEABR,N/A,17,186ha,Caleto El Quisco,N/A,N/A,Territorial user rights,N/A,Artisanal fishers,N/A
+#292,Wood 2013,3,Caleto Algaeeobo,MEABR,N/A,11,250ha,Caleto Algaeeobo,N/A,N/A,Territorial user rights,N/A,Artisanal fishers,N/A
+#192,AlonsoVega 2018,1,Talquilla,MEABR,N/A,N/A,N/A,Talquilla,30º50’S, 71º41’W,N/A,N/A,Fishery Associations,Intertidal
+#192,AlonsoVega 2018,2,Lagunillas,MEABR,N/A,N/A,N/A,Lagunillas,30º01’’S,71º23’’W,N/A,N/A,Fishery Associations,Intertidal
+#272,Aldana 2014,1,Quintay,MEABR,N/A,16,162 ha ,Quintay,33°10?S,71°41?W,N/A,N/A,Fishers,Intertidal
+#272,Aldana 2014,2,El Quisco,MEABR,N/A,16,344 ha,El Quisco,33°23?S,71°42?W,N/A,N/A,Fishers,Intertidal
+#272,Aldana 2014,3,Las Cruces,MEABR,N/A,16,85 ha,Las Cruces,33°18?S,71°38?W,N/A,N/A,Fishers,Intertidal
+#395,Avendaño 2005,1,La Rinconada Marine Reserve,Marine reserve,N/A,N/A,N/A,"La Rinconada, Antofagasta Bay",23º28?S,70º30?W,N/A,N/A,Government,N/A
+#233,Aldana 2016,1,"Playa Chica, Quintay",MEABR,N/A,N/A,N/A,Quintay,33°11?S,71°1?W,N/A,N/A,N/A,Intertidal
+#15,Avendano 2025,1,La Rinconada Marine Reserve,Marine reserve,N/A,16,300 ha,"La Rinconada, Antofagasta Bay",23º28?S,70º30?W,N/A,N/A,Government,N/A
+#446,ZAMORANO 1995,1,Mehuin Marine Reserve,Marine reserve,N/A,12,N/A,Mehuin,"39"" 24' S","73"" 13'",N/A,N/A,Universidad Austral de Chile,Intertidal
+#219,Blanco 2017,1,Maitencillo,TURF,N/A,N/A,N/A,Maitencillo,"Between 32.61°S and
+33.50°S",N/A,N/A,N/A,N/A,Coastal
+#219,Blanco 2017,2,Laguna Verde,TURF,N/A,N/A,N/A,Laguna Verde,"Between 32.61°S and
+33.50°S",N/A,N/A,N/A,N/A,Coastal
+#219,Blanco 2017,3,Quintay,TURF,N/A,N/A,N/A,Quintay,"Between 32.61°S and
+33.50°S",N/A,N/A,N/A,N/A,Coastal
+#219,Blanco 2017,4,El Quisco,TURF,N/A,N/A,N/A,El Quisco,"Between 32.61°S and
+33.50°S",N/A,N/A,N/A,N/A,Coastal
+#155,Fernandez 2020,1,Chungungo (Temblador),TURF,N/A,N/A,N/A,Chungungo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,2,Chungungo (Sector D),TURF,N/A,N/A,N/A,Chungungo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,3,Chungungo E,TURF,N/A,N/A,N/A,Chungungo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,4,Hornos (Sector B),TURF,N/A,N/A,N/A,Hornos,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,5,Hornos ,TURF,N/A,N/A,N/A,Hornos,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,6,Huentelauquen ,TURF,N/A,N/A,N/A,Huentelauquen ,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,7,Chigualoco ,TURF,N/A,N/A,N/A,Chigualoco ,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,8,Chigualoco (Boca del Barco),TURF,N/A,N/A,N/A,Chigualoco ,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,9,Chigualoco (Chepiquilla),TURF,N/A,N/A,N/A,Chigualoco ,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,10,San Pedro (Nague B),TURF,N/A,N/A,N/A,San Pedro,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,11,San Pedro (Nague),TURF,N/A,N/A,N/A,San Pedro,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,12,Las Conchas (Sector C Lvlc),TURF,N/A,N/A,N/A,Las Conchas,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,13,Pichidangui ,TURF,N/A,N/A,N/A,Pichidangui ,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,14,Los Molles (Playa Los Molles),TURF,N/A,N/A,N/A,Los Molles,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,15,Los Molles,TURF,N/A,N/A,N/A,Los Molles,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,16,Pichicuy,TURF,N/A,N/A,N/A,Pichicuy,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,17,Papudo,TURF,N/A,N/A,N/A,Papudo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,18,Papudo (Punta Pite),TURF,N/A,N/A,N/A,Papudo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,19,Horcon,TURF,N/A,N/A,N/A,Horcon,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,20,Quintay (Sector B Qui),TURF,N/A,N/A,N/A,Quintay,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,21,Quintay (Sector A Qui),TURF,N/A,N/A,N/A,Quintay,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,22,Algarrobo (Sector C Alg),TURF,N/A,N/A,N/A,Algarrobo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#155,Fernandez 2020,23,Algarrobo (Sector A Alg),TURF,N/A,N/A,N/A,Algarrobo,"Between 
+29°27’S and 33°22’S",N/A,"Annual quotas, Temporary reproductive ban, Minimum legal size",N/A,Fishers,Coastal
+#4,Perez-Matus 2025,1,Unspecified / not named,TURF,N/A,N/A,N/A,Northern coast,27°S,N/A,N/A,N/A,Fishers,Subtidal
+#4,Perez-Matus 2025,2,Unspecified / not named,TURF,N/A,N/A,N/A,Northern-central coast,29°S,N/A,N/A,N/A,Fishers,Subtidal
+#4,Perez-Matus 2025,3,Unspecified / not named,TURF,N/A,N/A,N/A,Central coast,32°S,N/A,N/A,N/A,Fishers,Subtidal
+#85,Hamame 2022,1,Guaitecas,MEABR,N/A,N/A,N/A,"Melinka Cove, Las Guaitecas achipelago",43.9°S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,2,Guaitecas,MEABR,N/A,N/A,N/A,"Melinka Cove, Las Guaitecas achipelago",43.9°S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,3,Guaitecas,MEABR,N/A,N/A,N/A,"Puerto Gala Cove, Moraleda Channel",44.2?S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,4,Guaitecas,MEABR,N/A,N/A,N/A,"Puerto Gala Cove, Moraleda Channel",44.2?S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,5,Huichas,MEABR,N/A,N/A,N/A,"Puerto Aguirre Cove, Moraleda Channel",45.2?S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,6,Huichas,MEABR,N/A,N/A,N/A,"Puerto Aguirre Cove, Moraleda Channel",45.2?S,N/A,N/A,N/A,Artisanal fishers,N/A
+#85,Hamame 2022,7,Huichas,MEABR,N/A,N/A,N/A,"Puerto Aguirre Cove, Moraleda Channel",45.2?S,N/A,N/A,N/A,Artisanal fishers,N/A
+#450,DAVIS 1995,1,Mehuin Marine Reserve,Marine reserve,N/A,N/A,N/A,Mehuin,39° 24' S,73°13' W,N/A,N/A,Artisanal fishers,Intertidal
+#464,MORENO 1986,1,Mehuin Marine Reserve,Marine reserve,N/A,6,N/A,Mehuin,39° 24' S,73°13' W,N/A,N/A,N/A,Intertidal
+#107,Gouraguine 2021,1,Las Cruces (ECIM),MPA,N/A,36,N/A,Las Cruces (ECIM),"Between 36°09,277' S and 23°24, 7? S ",N/A,Reserve,N/A,Pontifical Catholic University of Chile,Subtidal
+#107,Gouraguine 2021,2,Chañaral Reserva,MPA,N/A,13,N/A,Chañaral Reserva,"Between 36°09,277' S and 23°24, 7? S ",N/A,Reserve,N/A,N/A,Subtidal
+#107,Gouraguine 2021,3,Cobquecura,TURF NKH,N/A,17,N/A,Cobquecura,"Between 36°09,277' S and 23°24, 7? S ",N/A,No kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,4,Las Cruces,TURF NKH,N/A,17,N/A,Las Cruces,"Between 36°09,277' S and 23°24, 7? S ",N/A,No kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,5,Yeso,TURF KH,N/A,6,N/A,Yeso,"Between 36°09,277' S and 23°24, 7? S ",N/A,Kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,6,Carrizal Bajo,TURF KH,N/A,6,N/A,Carrizal Bajo,"Between 36°09,277' S and 23°24, 7? S ",N/A,Kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,7,Chanaral de Aceitun,TURF KH,N/A,6,N/A,Chanaral de Aceitun,"Between 36°09,277' S and 23°24, 7? S ",N/A,Kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,8,Los Vilos,TURF KH,N/A,6,N/A,Los Vilos,"Between 36°09,277' S and 23°24, 7? S ",N/A,Kelp harvesting,N/A,N/A,Subtidal
+#107,Gouraguine 2021,9,Ventana,TURF KH,N/A,6,N/A,Ventana,"Between 36°09,277' S and 23°24, 7? S ",N/A,Kelp harvesting,N/A,N/A,Subtidal
+#445,Duarte 1996,1,Mehuin Marine Reserve,Marine reserve,N/A,15,600 ha,Mehuin,39° 24' S,73° 13' W,N/A,N/A,N/A,Intertidal
+#426,Fernández 2000,1,El Quisco,MEABR,N/A,N/A,N/A,El Quisco,33°23?S,N/A,N/A,N/A,N/A,Intertidal
+#426,Fernández 2000,2,Las Cruces (ECIM),MPA,N/A,N/A,N/A,Las Cruces (ECIM),33° 30’ S,N/A,N/A,N/A,N/A,Intertidal
+#381,Avendano 2007,1,La Rinconada Marine Reserve,Marine reserve,N/A,N/A,337.61 ha,Antofagasta Bay,23°28?28?S ,70°30?35?W,N/A,N/A,N/A,Coastal
+#62,Avendano 2023,1,La Rinconada Marine Reserve,Marine reserve,N/A,13,N/A,Antofagasta Bay,23°28'S,70°30'W,N/A,N/A,N/A,N/A
+#389,Diaz 2006,1,La Rinconada Marine Reserve,Marine reserve,N/A,N/A,271 ha,Antofagasta Bay,23°28'S,70°30'W,N/A,N/A,N/A,N/A
+#377,Silva 2007,1,La Rinconada Marine Reserve,Marine reserve,N/A,N/A,337.6ha,Antofagasta Bay,23°28?28?S,70°30?35?W,N/A,N/A,N/A,Benthic
+#151,Beckensteiner 2020,1,N/A,TURF,N/A,N/A,N/A,Chile,N/A,N/A,Coves have at least one TURF assigned to a fisher's organisation,N/A,Fisher's organisation,N/A
+#199,Friedlander 2018,1,Francisco Coloane Marine Park,Marine park,N/A,14,"67,197 ha",Straits of Magellan,N/A,N/A,N/A,N/A,N/A,Benthic
+#283,Carcamo 2013,1,Islas Choros-Damas Marine Reserve,Marine reserve,N/A,7,3834 ha,Isla Choros,N/A,N/A,N/A,N/A,National Fisheries Service,N/A
+#283,Carcamo 2013,2,Apolillado Management Area,MEABR,N/A,15,237 ha,Isla Choros,N/A,N/A,N/A,N/A,"Los Choros Fishermen's association, Undersecretary of Fisheries",N/A
+#283,Carcamo 2013,3,Punta de Choros Management Area,MEABR,N/A,14,907 ha,Isla Choros,N/A,N/A,N/A,N/A,"Punta de Choros Fishermen's association, Undersecretary of Fisheries",N/A
+#283,Carcamo 2013,4,Isla Choros Management Area,MEABR,N/A,7,297 ha,Isla Choros,N/A,N/A,N/A,N/A,"Punta de Choros Fishermen's association, Undersecretary of Fisheries",N/A
+#283,Carcamo 2013,5,Gaviota Island National Protected Asset,National Protected Asset,N/A,6,193 ha,Gaviota Island,N/A,N/A,N/A,N/A,Ministry of National Assets,N/A
+#255,deJuan 2015,1,Las Cruces ,No-take MPA,N/A,31,N/A,Las Cruces ,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#255,deJuan 2015,2,El Quisco,MEABR,N/A,N/A,N/A,El Quisco,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#255,deJuan 2015,3,Quintay,MEABR,N/A,N/A,N/A,Quintay,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#255,deJuan 2015,4,Laguna Verde,MEABR,N/A,N/A,N/A,Laguna Verde,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#255,deJuan 2015,5,Maitencillo,MEABR,N/A,N/A,N/A,Maitencillo,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#255,deJuan 2015,6,Los Molles,MEABR,N/A,N/A,N/A,Los Molles,Between 28°S and 33°S,N/A,N/A,N/A,Fishermen's associations,N/A
+#354,Gelcich 2009,1,Chigualoco ,MEABR,N/A,7,N/A,Chigualoco ,31°55?S,71°00?W,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,2,Cooperativa,MEABR,N/A,7,N/A,Cooperativa,31°55?S,71°00?W,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,3,Algarrobo ,MEABR,N/A,7,N/A,Algarrobo ,N/A,N/A,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,4,El Quisco,MEABR,N/A,7,N/A,El Quisco,N/A,N/A,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,5,La Boca,MEABR,N/A,3,N/A,La Boca,33°55?S,71°50?W,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,6,Matanzas,MEABR,N/A,3,N/A,Matanzas,33°57?S,71°52?W,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,7,Puertecillo,MEABR,N/A,3,N/A,Puertecillo,33°55?S,71°50?W,N/A,N/A,Fishers,N/A
+#354,Gelcich 2009,8,Carelmapu,MEABR,N/A,5,N/A,Carelmapu,41°51?S,73°35?W,N/A,N/A,Fishers,N/A
+#375,Thompson 2008,1,Islas Choros-Damas Marine Reserve,Marine reserve,N/A,3,N/A,Choros and Damas Islands,29° 13? 29? S,71° 31? 38? W,N/A,N/A,National Fisheries Service,N/A
+#121,Aburto 2020,1,Motu Motiro Hiva Marine Park (MMHMP),No-take MPA,N/A,10,15000000,Salas y Gomez Island,N/A,N/A,N/A,N/A,"Rapanui people, Chilean Government",N/A
+#280,Aburto 2014,1,Tongoy,MEABR,N/A,13,N/A,Tongoy Bay,30°15? S,70°30? W,N/A,N/A,Tongoy Fishers Organisation,N/A
+#92,Aburto 2021,1,Peñuelas A ,MEABR,N/A,19,N/A,Coquimbo Bay,N/A,N/A,N/A,N/A,3 fisher's organisations,N/A
+#146,Anbleyth-Evans 2020,1,Dalcahue,MEABR,N/A,N/A,N/A,Dalcahue,N/A,N/A,N/A,N/A,Fishers,N/A
+#146,Anbleyth-Evans 2020,2,Mañihueico - Huinay ECMPO,ECMPO (Indigenous Peoples Marine Spaces),N/A,N/A,N/A,Mañihueico - Huinay ,N/A,N/A,N/A,N/A,Huilliche-Mapuche indigenous community,N/A
+#146,Anbleyth-Evans 2020,3,Lafkenmapu Lahuel MPA,MPA,N/A,N/A,N/A,Caleta Condor,N/A,N/A,N/A,N/A,N/A,N/A
+#146,Anbleyth-Evans 2020,4,Maullin,MEABR,N/A,N/A,N/A,Maullin,N/A,N/A,N/A,N/A,Fishers,N/A
+#129,Brain 2020,1,Almirantazgo Sound,Multiple-use MPA,N/A,1,"76,400 ha ","Timaukel Commune, Province of Tierra del Fuego",N/A,N/A,Artisanal extraction of benthic resources is permitted,Tourism permitted,Ministry of Environment,N/A
+#10,Franco-Melendez 2025,1,San Vicente,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,2,Candelaria-Cantera,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,3,Rari,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,4,Dichato,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,5,Punta Raimenco,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,6,Bajo Rumena,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,7,Rumena,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,8,Los Piures,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,9,Cobquecura sector,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,10,Puerto Yana,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,11,Maule,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,12,Punta Lavapie,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,13,Pueblo Hundido,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,14,Laraquete,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Coastal
+#10,Franco-Melendez 2025,15,Los Partidos,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,16,Puerto Sur,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,17,Pueblo Norte sector B,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,18,Punta Cadena,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,19,Weste Isla Mocha,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,20,Quechol,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#10,Franco-Melendez 2025,21,Quechol Sur,TURF,N/A,N/A,N/A,Biobío Region,N/A,N/A,N/A,N/A,Artisanal fisher organizations,Island
+#678,Gallardo-Fernández 2011,1,Peñuelas ,TURF,N/A,13,288 ha,Region IV,N/A,N/A,N/A,N/A,Fishers,N/A
+#678,Gallardo-Fernández 2011,2,Chigualoco,TURF,N/A,8,600 ha ,Region IV,N/A,N/A,N/A,N/A,Fishers,N/A
+#304,Aburto 2013,1,Caleta Guayacán ,MEABR,N/A,N/A,N/A,Coquimbo ,29°58’S,71°22’W,N/A,N/A,"Fishers, SERNAPESCA",N/A
+#304,Aburto 2013,2,Caleta Huentelauquén,MEABR,N/A,19,N/A,Huentelauquén,31°55’S,71°25’W,Harvests limited to a few days per year,N/A,"Fishers, SERNAPESCA",N/A
+#1,Ruz 2025,1,Unspecified / not named,TURF,N/A,N/A,N/A,Northern coast,27°S,N/A,N/A,N/A,N/A,Subtidal
+#1,Ruz 2025,2,Unspecified / not named,TURF,N/A,N/A,N/A,North-central coast,29°S,N/A,N/A,N/A,N/A,Subtidal
+#1,Ruz 2025,3,Unspecified / not named,TURF,N/A,N/A,N/A,Central coast,32°S,N/A,N/A,N/A,N/A,Subtidal
+#3,Gonzalez-Roca 2026,1,El Cisne,MEABR,N/A,N/A,N/A,Atacama region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,2,Totoral Bajo,MEABR,N/A,N/A,N/A,Atacama region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,3,Carrizal Bajo,MEABR,N/A,N/A,N/A,Atacama region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,4,Los Bronces,MEABR,N/A,N/A,N/A,Atacama region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,5,Chañaral de Aceituno,MEABR,N/A,N/A,N/A,Atacama region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,6,Chungungo,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,7,Totoralillo Norte,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,8,Caleta Hornos,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,9,Totoralillo Centro,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,10,Sierra,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,11,Sierra II,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,12,Mantos de Hornillo,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,13,Puerto Manso,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,14,Islas Blancas,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,15,Coop. Las Conchas,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,16,A. G. Caleta Las Conchas,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,17,Caleta San Pedro Union,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,18,Lord Willow Women Union ,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#3,Gonzalez-Roca 2026,19,Lobos,MEABR,N/A,N/A,N/A,Coquimbo region,N/A,N/A,N/A,N/A,N/A,N/A
+#493,Gres 2024,1,Chañaral Island,MPA,N/A,N/A,N/A,Chañaral Island,29°2'S,71°34'W,N/A,N/A,N/A,Subtidal
+#223,Perez-Matus 2017,1,Punta Lengua de Vaca,TURF,N/A,17,N/A,Punta de Talca,31° S ,N/A,N/A,N/A,N/A,Subtidal
+#223,Perez-Matus 2017,2,Punta Curaumilla,TURF,N/A,17,N/A,Quintay,33° S,N/A,N/A,N/A,N/A,Subtidal
+#223,Perez-Matus 2017,3,Guanaqueros ,TURF,N/A,17,N/A,Totoralillo ,30° S,N/A,N/A,N/A,N/A,Subtidal
+#223,Perez-Matus 2017,4,El Quisco-Algarrobo,TURF,N/A,15,N/A,Algarrobo ,33° S,N/A,N/A,N/A,N/A,Subtidal
+#657,Almanza 2013,1,Bahía Mansa A,MEABR,N/A,N/A,N/A,Bahía Mansa,40° 34?S,73° 44?W,N/A,N/A,N/A,Subtidal
+#657,Almanza 2013,2,Bahía Mansa B,MEABR,N/A,N/A,N/A,Bahía Mansa,40° 34?S,73° 44?W,N/A,N/A,N/A,Subtidal
+#657,Almanza 2013,3,Maicolpué,MEABR,N/A,N/A,N/A,Maicolpué,40° 35?S,73° 44?W,N/A,N/A,N/A,Subtidal
+#242,Biggs 2016,1,Central Chile (x 80 TURFs),TURF,N/A,N/A,N/A,Between Pichidangui and Pichilemu ,Between 32°08?00?S and 34° 23? 0? S,Between 72° 0? 0? W and 71°32?00?W,N/A,N/A,Fisher associations,N/A
+#161,Avendano 2019,1,La Rinconada,Marine reserve,N/A,N/A,N/A,"La Rinconada, Antofagasta Bay",23° 28?28 ?S,70° 30?35?W,N/A,N/A,N/A,Coastal
+#122,Albornoz 2020,1,Los Lagos region,MEABR,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#303,Aburto 2013,1,Tongoy Bay,MEABR,N/A,11,N/A,Tongoy Bay,30°15? S,70°30? W,N/A,N/A,Fishers' association,N/A
+#50,Albornoz 2024,1,Unspecified / not named,TURF,N/A,N/A,N/A,Tarapacá region,N/A,N/A,N/A,N/A,Fishers' organisation,N/A
+#50,Albornoz 2024,2,Unspecified / not named,TURF,N/A,N/A,N/A,Tarapacá region,N/A,N/A,N/A,N/A,Fishers' organisation,N/A
+#191,Oyanedel 2018,1,Unspecified / not named,TURF,N/A,N/A,N/A,Los Molles,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,2,Unspecified / not named,TURF,N/A,N/A,N/A,Pichicuy,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,3,Unspecified / not named,TURF,N/A,N/A,N/A,Papudo,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,4,Unspecified / not named,TURF,N/A,N/A,N/A,Zapallar,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,5,Unspecified / not named,TURF,N/A,N/A,N/A,Maitencillo,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,6,Unspecified / not named,TURF,N/A,N/A,N/A,Horcon,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,7,Unspecified / not named,TURF,N/A,N/A,N/A,Ventanas,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,8,Unspecified / not named,TURF,N/A,N/A,N/A,Quintero,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,9,Unspecified / not named,TURF,N/A,N/A,N/A,Montemar,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,10,Unspecified / not named,TURF,N/A,N/A,N/A,Laguna Verde,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,11,Unspecified / not named,TURF,N/A,N/A,N/A,Algarrobo ,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,12,Unspecified / not named,TURF,N/A,N/A,N/A,El Quisco,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,13,Unspecified / not named,TURF,N/A,N/A,N/A,Las Cruces,N/A,N/A,N/A,N/A,N/A,N/A
+#191,Oyanedel 2018,14,Unspecified / not named,TURF,N/A,N/A,N/A,San Antonio,N/A,N/A,N/A,N/A,N/A,N/A
+#86,Romero 2022,1,Antofagasta (X2),TURF,N/A,N/A,N/A,Antofagasta (X2),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,2,Atacama (X10),TURF,N/A,N/A,N/A,Atacama (X10),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,3,Coquimbo (X28),TURF,N/A,N/A,N/A,Coquimbo (X28),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,4,Valparaíso (X7),TURF,N/A,N/A,N/A,Valparaíso (X7),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,5,Bio Bío (X6),TURF,N/A,N/A,N/A,Bio Bío (X6),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,6,Los Ríos (X15),TURF,N/A,N/A,N/A,Los Ríos (X15),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#86,Romero 2022,7,Los Lagos (X32),TURF,N/A,N/A,N/A,Los Lagos (X32),"Between 25,5? S and 41,2?S","Between 70,4?W and 74,1?W",N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,1,Arica-Parinacota (X1),TURF,N/A,N/A,N/A,Arica-Parinacota (X1),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,2,Tarapacá (X8),TURF,N/A,N/A,N/A,Tarapacá (X8),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,3,Antofagasta (X8),TURF,N/A,N/A,N/A,Antofagasta (X8),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,4,Atacama (X19),TURF,N/A,N/A,N/A,Atacama (X19),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,5,Coquimbo (45),TURF,N/A,N/A,N/A,Coquimbo (45),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#78,Cerda 2022,6,Valparaíso (21),TURF,N/A,N/A,N/A,Valparaíso (21),Between 18° S and 33° S,N/A,N/A,N/A,Fisher associations,N/A
+#225,Crona 2017,1,Los Molles,TURF,N/A,>6,N/A,Los Molles,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#225,Crona 2017,2,Maitencillo,TURF,N/A,>6,N/A,Maitencillo,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#225,Crona 2017,3,Montemar,TURF,N/A,>6,N/A,Montemar,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#225,Crona 2017,4,Quintay,TURF,N/A,>6,N/A,Quintay,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#225,Crona 2017,5,Algarrobo,TURF,N/A,>6,N/A,Algarrobo,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#225,Crona 2017,6,El Quisco,TURF,N/A,>6,N/A,El Quisco,N/A,N/A,N/A,N/A,"Artisanal fisher organizations, Undersecretary of fisheries",Subtidal
+#109,Fernandez 2021,1,National,MPA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#109,Fernandez 2021,2,National,TURF,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#109,Fernandez 2021,3,National,Marine park,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#109,Fernandez 2021,4,National,Natural sanctuary,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#109,Fernandez 2021,5,National,Marine reserve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#109,Fernandez 2021,6,National,Coastal areas for Indigenous groups,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+#2,Sapag 2025,1,Unspecified / not named,No-take MPA,N/A,N/A,1500,Magellan Strait,N/A,N/A,N/A,N/A,N/A,Fjord
+#2,Sapag 2025,2,Unspecified / not named,Multiple-use MPA,N/A,NA,66800,Magellan Strait,N/A,N/A,N/A,N/A,N/A,Fjord
+#150,Arias 2020,1,Atacama (X33),TURF,N/A,N/A,N/A,Atacama (X33),N/A,N/A,N/A,N/A,N/A,N/A
+#150,Arias 2020,2,Coquimbo (X76),TURF,N/A,N/A,N/A,Coquimbo (X76),N/A,N/A,N/A,N/A,N/A,N/A
+#55,Arias 2023,1,Atacama (X22),TURF,N/A,N/A,N/A,Atacama,N/A,N/A,N/A,N/A,Fishers' organisations,N/A
+#55,Arias 2023,2,Coquimbo (X61),TURF,N/A,N/A,N/A,Coquimbo,N/A,N/A,N/A,N/A,Fishers' organisations,N/A
+#133,Anguita 2020,1,Chile (224),TURF,N/A,N/A,N/A,Chile,Between 18 and 41°S,N/A,N/A,N/A,N/A,N/A
+#503,Avendaño 2023,1,La Rinconada,Marine reserve,N/A,12,338 ha,La Rinconada,N/A,N/A,Contains no-take sectors,N/A,N/A,N/A
+#76 ,Avendano 2022,1,La Rinconada,Marine reserve,N/A,4,N/A,La Rinconada,23°28’28”S,70°30’35”W,N/A,N/A,N/A,N/A
+#312,Zapata 2012,1,La Rinconada,Marine reserve,N/A,15,N/A,La Rinconada,23? 28 S,70°30’W,N/A,N/A,N/A,Coastal
+#322,Squeo 2012,1,National,Marine park,N/A,N/A,N/A,Chile,Between 18 and 55°S,N/A,N/A,N/A,N/A,N/A
+#322,Squeo 2012,2,National,Marine reserve,N/A,N/A,N/A,Chile,Between 18 and 55°S,N/A,N/A,N/A,N/A,N/A
+#322,Squeo 2012,3,National,Multiple-use MPA,N/A,N/A,N/A,Chile,Between 18 and 55°S,N/A,N/A,N/A,N/A,N/A
+#322,Squeo 2012,4,National,Protected National Properties,N/A,N/A,N/A,Chile,Between 18 and 55°S,N/A,N/A,N/A,N/A,N/A
+#279,Rosas 2014,1,Los Lagos (X45),TURF,N/A,N/A,N/A,Los Lagos Region,N/A,N/A,N/A,N/A,Artisanal organisations,N/A
+#113,Romero 2021,1,National (X219),MEABR,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#71,Quezada 2023,1,National (X232),TURF,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#367,Avendano 2008,1,La Rinconada,Marine reserve,N/A,7,N/A,La Rinconada,23°28’28”S,70°30’35”W,N/A,N/A,N/A,Coastal
+#397,Cantillanez 2005,1,La Rinconada,Marine reserve,N/A,8,N/A,La Rinconada,23°28’28”S,70°30’35”W,N/A,N/A,N/A,N/A
+#176 ,Carcamo 2019,1,National,Marine protected area,N/A,N/A,N/A,Chile,Between 29°02?S and 48°23?S,N/A,N/A,N/A,N/A,N/A
+#108,Gonzalez 2021,1,Choros Island ,MEABR,N/A,12,N/A,Choros Island,N/A,N/A,Located in Isla Choros-Damas marine reserve,N/A,Fishermen's union,N/A
+#52,Huaiquimilla-Guerrero 2023,1,National,MPA,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#52,Huaiquimilla-Guerrero 2023,2,National,Marine and Coastal Areas for Indigenous Peoples,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#52,Huaiquimilla-Guerrero 2023,3,National,Marine park,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#52,Huaiquimilla-Guerrero 2023,4,National,Marine reserve,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#52,Huaiquimilla-Guerrero 2023,5,National,Natural sanctuary,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#311,Lee 2012,1,Las Cruces,Marine reserve,N/A,5,N/A,Las Cruces,33°31?S ,071°38?W,N/A,N/A,Pontificia Universidad Católica de Chile,Mid-intertidal
+#216,Avendano 2017,1,La Rinconada,Marine reserve,N/A,6,337.61 ha,Antofagasta Bay,23°28?28?S ,70°30?35?W,N/A,N/A,N/A,N/A
+#163,Luna-Jorquera 2019,1,Rapa Nui Rahui MPA,MPA,N/A,3,63136800 ha,Rapa Nui,N/A,N/A,N/A,N/A,N/A,N/A
+#187,Chavez 2018,1,Coliumo,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,2,Cerro Verde Bajo,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,3,Lirquén,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,4,Chome,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,5,Maule,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,6,Lota,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,7,Llico,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,8,Arauco,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,9,Los Piures,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,10,Rumena,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,11,Punta Lavapie,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#187,Chavez 2018,12,Perone,TURF,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishing organizations,N/A
+#416,Cornelius 2001,1,Las Cruces,Marine reserve,N/A,17,0.4152 ha,Las Cruces,33°30?S ,71°38?W,N/A,N/A,N/A,Rocky shore
+#501,Chávez 2023,1,National,TURF,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,Fisher unions,N/A
+#214,Davis 2017,1,Los Molles,TURF,N/A,N/A,N/A,Los Molles,32?24S,71?51W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,2,Pichicuy,TURF,N/A,N/A,N/A,Pichicuy,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,3,Maintencello,TURF,N/A,N/A,N/A,Maintencello,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,4,Horcon,TURF,N/A,N/A,N/A,Horcon,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,5,Ventanas,TURF,N/A,N/A,N/A,Ventanas,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,6,Valparaiso,TURF,N/A,N/A,N/A,Valparaiso,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,7,Algarrobo,TURF,N/A,N/A,N/A,Algarrobo,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,8,El Quisco,TURF,N/A,N/A,N/A,El Quisco,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,9,Las Cruces,TURF,N/A,N/A,N/A,Las Cruces,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,10,San Antonio,TURF,N/A,N/A,N/A,San Antonio,Between 32 and 34 S,Between 71 and 71'8 W,N/A,N/A,Fisher organisations,N/A
+#214,Davis 2017,11,Navidad,TURF,N/A,N/A,N/A,Navidad,33?94S ,71?85W,N/A,N/A,Fisher organisations,N/A
+#154,Ebel 2020,1,Ancud,TURF,N/A,N/A,N/A,Ancud,N/A,N/A,N/A,N/A,Fishing unions,N/A
+#154,Ebel 2020,2,Carelmapu,TURF,N/A,N/A,N/A,Carelmapu,N/A,N/A,N/A,N/A,Fishing unions,N/A
+#288 ,FranciscoCarcamo 2013,1,Unspecified / not named,Marine reserve,N/A,N/A,N/A,Northern Chile,Between 28° 54? S and 29° 45? S,N/A,N/A,N/A,N/A,N/A
+#288 ,FranciscoCarcamo 2013,2,Unspecified / not named,Priority Sites for Terrestrial Conservation,N/A,N/A,N/A,Northern Chile,Between 28° 54? S and 29° 45? S,,N/A,N/A,N/A,N/A
+#288 ,FranciscoCarcamo 2013,3,Unspecified / not named,Protected National Asset,N/A,N/A,N/A,Northern Chile,Between 28° 54? S and 29° 45? S,,N/A,N/A,N/A,N/A
+#288 ,FranciscoCarcamo 2013,4,Unspecified / not named,MEABR,N/A,N/A,N/A,Northern Chile,Between 28° 54? S and 29° 45? S,,N/A,N/A,N/A,N/A
+#250,Haro 2016,1,Francisco Coloane MPA,MPA,N/A,N/A,N/A,Magellan Strait,53° 38' S,72° 14' W,N/A,N/A,N/A,N/A
+#361,Avendano 2008,1,La Rinconada,Marine reserve,N/A,N/A,270 ha ,La Rinconada,23°28?S,70°30?W,N/A,N/A,N/A,Bay
+#103,Franco-Melendez 2021,1,San Vicente,TURF,N/A,20,91.66 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Bay
+#103,Franco-Melendez 2021,2,Candelaria-Cantera,TURF,N/A,20,69.91 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Bay
+#103,Franco-Melendez 2021,3,Dichato,TURF,N/A,20,191.58 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,4,Punta Raimenco,TURF,N/A,20,48.83 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,5,Bajo Rumena,TURF,N/A,20,11.5 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,6,Rumena,TURF,N/A,20,74.48 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,7,Los Piures,TURF,N/A,20,271.64 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,8,Cobquecura sector A,TURF,N/A,16,452.5 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,9,Puerto Yana,TURF,N/A,20,112.5 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Coast
+#103,Franco-Melendez 2021,10,Maula,TURF,N/A,19,59.9 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Gulf
+#103,Franco-Melendez 2021,11,Punta Lavapie,TURF,N/A,20,68.48 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Gulf
+#103,Franco-Melendez 2021,12,Laraquete,TURF,N/A,19,48.88 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Gulf
+#103,Franco-Melendez 2021,13,Los Partidos,TURF,N/A,13,416 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,14,Puerto Sur,TURF,N/A,29,522.79 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,15,Pueblo Norte sector B,TURF,N/A,20,239.61 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,16,Punta Cadena,TURF,N/A,13,947.2 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,17,Weste Isla Mocha,TURF,N/A,18,3870.81 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,18,Quechol,TURF,N/A,14,277.94 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#103,Franco-Melendez 2021,19,Quechol Sur,TURF,N/A,14,2376.77 ha,Biobio region,N/A,N/A,N/A,N/A,Artisanal fishers,Island
+#230,Gelcich 2017,1,National (X55),TURF,N/A,N/A,146 ha (mean),Chile,Between 19°35´40.25?S and 43°8´13.41?S,Between 70°12´44.80?W and  73°39´50.21?W,N/A,N/A,N/A,N/A
+#374,Thebault 2008,1,La Rinconada Marine Reserve,Marine reserve,N/A,2,350 ha,La Rinconada,23?29’S,70?30’W,N/A,N/A,N/A,Bay
+#490,Vallejos 2024,1,Chepu,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,2,Puñihuil,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,3,Mar Brava,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,4,Guabun,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,5,Yuste,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,6,Carelmapu,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,7,Queniur,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,8,Maullin,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,9,Estaquilla,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,10,Unspecified / not named,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,11,Unspecified / not named,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,12,Unspecified / not named,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,13,Unspecified / not named,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#490,Vallejos 2024,14,Unspecified / not named,TURF,N/A,N/A,N/A,Los Lagos region,N/A,N/A,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,1,Los Lobos,TURF,N/A,5,N/A,Los Lobos,31°55?S,71°00?W,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,2,La Boca,TURF,N/A,1,N/A,La Boca,33°55?S,71°50?W,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,3,Matanzas,TURF,N/A,1,N/A,Matanzas,33°57?S,71°52?W,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,4,Puertecillo ,TURF,N/A,1,N/A,Puertecillo ,34°17?S,71°58?W,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,5,El Muelle-Ancud,TURF,N/A,2,N/A,El Muelle-Ancud,41°51?S,73°49?W,N/A,N/A,N/A,N/A
+#396,Gelcich 2005,6,Quicavi ,TURF,N/A,2,N/A,Quicavi ,42° 18?S,73° 35?W,N/A,N/A,N/A,N/A
+#202,Santos-Carvallo 2018,1,Marine Reserve of Chañaral and Choros-Damas Islands (MRC-CD),Marine reserve,N/A,N/A,N/A,"Chañaral Island, Damas Island and Choros Island",Between 29.03°S and 29.26°S,Between 71.57°W and 71.52.°W,N/A,N/A,N/A,Coastal
+#135,Ospina-Alvarez 2020,1,National,N/A,N/A,N/A,N/A,Chile,31.57°S to 36.00°S,N/A,"75 TURFs, 1 Natural Monument, 4 Natural Sanctuaries",N/A,SUBPESCA and Ministry of Environment,N/A
+#626,Santis 2015,1,Biobío region (X10),MEABR,N/A,N/A,N/A,Biobío region,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#68,Droguett 2023,1,Seno Almirantazgo MPA,MPA,N/A,N/A,N/A,"Islote Albatros, Tierra del Fuego ",54°27?20?S ,69°01?12??W,N/A,N/A,N/A,Island
+#117,Franco-Melendez 2021,1,San Vicente,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,2,Candelaria-Cantera,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,3,Rari,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,4,Dichato,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,5,Punta Raimenco,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,6,Bajo Rumena,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,7,Rumena,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,8,Los Piures,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,9,Cobquecura sector,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,10,Puerto Yana,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,11,Maule,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,12,Punta Lavapie,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,13,Pueblo Hundido,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,14,Laraquete,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,15,Los Partidos,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,16,Puerto Sur,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,17,Pueblo Norte sector B,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,18,Punta Cadena,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,19,Weste Isla Mocha,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,20,Quechol,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#117,Franco-Melendez 2021,21,Quechol Sur,TURF,N/A,N/A,N/A,Biobio region,Between 35°70'S and 38°30'S,N/A,N/A,N/A,N/A,N/A
+#12,Romero 2025,1,National (X630),MEABR,N/A,N/A,N/A,Chile,N/A,N/A,N/A,N/A,N/A,N/A
+#331,Gallardo 2011,1,Guayacán,MEABR,N/A,5,N/A,Guayacán,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#331,Gallardo 2011,2,Huentelauquén ,MEABR,N/A,12,N/A,Huentelauquén ,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#164,Monnahan 2019,1,Francisco Coloane Coastal-Marine Protected Area,MPA,N/A,N/A,N/A,Magellan Strait,Between  52°17?S and 54°15?S,N/A,Includes Marine National Park,N/A,N/A,N/A
+#496,Molinet 2023,1,Pitipalena-Añihue MCPA,MPA,N/A,6,23900 ha,Chiloense ecoregion,43° 38’ - 44° 03?S,72° 47’ - 73° 03?W,Aquaculture and artisanal fishing grants,N/A,N/A,Benthic
+#119,Morales 2021,1,Motu Motiro Hiva Marine Park,Marine park,N/A,N/A,N/A,Salas y Gómez Island,26° 27'S ,105° 28'W,N/A,N/A,N/A,N/A
+#274,Molina 2014,1,Quintay,MEABR,N/A,20,N/A,Quintay,33°11? S,71°41? W,N/A,N/A,Artisanal fishers,Subtidal
+#210,Mattos 2017,1,Isla Grande Atacama,MPA,N/A,13,N/A,Atacama region,27°S,N/A,N/A,Moderate naval traffic,N/A,N/A
+#120,Plaza 2021,1,Rapa Nui ,Multiple-use MPA,N/A,N/A,N/A,Motu Nui,27°20'S ,109°45W,N/A,N/A,N/A,Island
+#286,Reyes-Arriagada 2013,1,Chico Islet ,Natural Monument,N/A,9,N/A,Puñihuil Islets,41°55? S,74°02? W,Regulations similar to MPA,No access permitted to Islets,N/A,N/A
+#286,Reyes-Arriagada 2013,2,Grande Islet,Natural Monument,N/A,9,N/A,Puñihuil Islets,41°55? S,74°02? W,Regulations similar to MPA,No access permitted to Islets,N/A,N/A
+#234,Manriquez 2016,1,La Rinconada,Marine reserve,N/A,17,N/A,Antofagasta Bay,23°28? S ,70°30? W,N/A,N/A,N/A,Intertidal
+#170,Sepulveda 2019,1,Punta Choros,TURF,N/A,N/A,371 ha,Punta Choros,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,2,Chungungo,TURF,N/A,N/A,107.29 ha,Chungungo,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,3,Hornos,TURF,N/A,N/A,295 ha,Hornos,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,4,Peñuelas,TURF,N/A,N/A,256.02 ha,Peñuelas,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,5,Guayacán,TURF,N/A,N/A,5.6 ha,Guayacán,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,6,Sierra,TURF,N/A,N/A,68.29 ha,Sierra,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,7,Cascabeles,TURF,N/A,N/A,48.75 ha,Cascabeles,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#170,Sepulveda 2019,8,San Pedro los Vilos,TURF,N/A,N/A,353.35 ha,San Pedro los Vilos,N/A,N/A,N/A,TURF-aquaculture system,Fishers' association,N/A
+#417,Manriquez 2001,1,Las Cruces,MPA,N/A,12,N/A,Las Cruces,33° 31’ S,71° 38’ W,No take,Closed to the public,Las Cruces Catholic University,Intertidal
+#417,Manriquez 2001,2,Las Cruces,Semi-protected area,N/A,N/A,N/A,Las Cruces,33° 31’ S,71° 38’ W,"Open to divers, restricted by a private owner's fence",N/A,Private owner,Intertidal
+#417,Manriquez 2001,3,El Quisco,MEABR,N/A,1,N/A,El Quisco,33° 23’ S,71° 42’ W,N/A,N/A,Fishermen's union,Subtidal
+#382,Gelcich 2007,1,Syndicate Union La Boca,MEABR,N/A,1,,Region VI,33°55?S,71°50?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,2,Vega La Boca ,MEABR,N/A,1,,Region VI,33°55?S,71°50?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,3,Union Matanzas ,MEABR,N/A,1,,Region VI,33°57?S,71°52?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,4,El Muelle-Ancud,MEABR,N/A,2,,Region X,41°51?S,73°49?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,5,Carelmapu ,MEABR,N/A,2,,Region X,41°51?S,73°35?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,6,Syndicate Cooperativa,MEABR,N/A,7,N/A,Region IV,31°55?S,71°00?W,N/A,N/A,Syndicates,N/A
+#382,Gelcich 2007,7,Syndicate El Quisco,MEABR,N/A,5,N/A,Region V,N/A,N/A,N/A,N/A,Syndicates,N/A
+#372,Gelcich 2008,1,El Quisco Sur,MEABR,N/A,7,160 ha,El Quisco,32°6'S-33°50' S,N/A,24 hour surveillance,N/A,Artisanal fishers,Subtidal
+#372,Gelcich 2008,2,El Quisco Norte,MEABR,N/A,7,60 ha,El Quisco,32°6'S-33°50' S,N/A,25 hour surveillance,N/A,Artisanal fishers,Subtidal
+#372,Gelcich 2008,3,Algarrobo Sur,MEABR,N/A,7,80 ha,Algarrobo ,32°6'S-33°50' S,N/A,26 hour surveillance,N/A,Artisanal fishers,Subtidal
+#39,Suazo 2024,1,Diego Ramírez,MPA,N/A,3,N/A,Diego Ramírez,56º31?17’’S,68º42?53’’W,N/A,N/A,N/A,Island
+#368,Gelcich 2008,1,Cooperativa,MEABR,N/A,5,N/A,Cooperativa,31? 55' S,71? 00'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,2,Chigualoco,MEABR,N/A,5,N/A,Chigualoco,31? 45' S,71? 30'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,3,Los Lobos,MEABR,N/A,1,N/A,Los Lobos,31? 55' S,71? 00'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,4,El Quisco,MEABR,N/A,4,N/A,El Quisco,33? 24' S,71? 41'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,5,La Boca,MEABR,N/A,2,N/A,La Boca,33? 55' S,71? 50'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,6,Matanzas,MEABR,N/A,1,N/A,Matanzas,33? 57' S,71? 52'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,7,Puertecillo,MEABR,N/A,1,N/A,Puertecillo,34? 17' S,71? 58'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,8,Carelmapu,MEABR,N/A,2,N/A,Carelmapu,41? 44' S,73? 43'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,9,El Muelle-Ancud,MEABR,N/A,1,N/A,El Muelle-Ancud,41? 51' S,73? 49'W,N/A,N/A,Fishers' Unions,N/A
+#368,Gelcich 2008,10,Quicavi,MEABR,N/A,1,N/A,Quicavi,42? 18' S,73? 35'W,N/A,N/A,Fishers' Unions,N/A
+#369,Pollack 2008,1,Cape Horn Biosphere Reserve,Marine reserve,Closed season,1,N/A,"Cape Horn, Magellan Region",N/A,N/A,"Minimum catch size, closed season (7 months King crab, 2 months Snow crab), only Artisanal fishing permitted ",N/A,SERNAPESCA,N/A
+#30,Nykol 2024,1,Seno Almirantazgo,MPA,N/A,6,115000 ha,Isla Grande de Tierra del Fuego,54?21? S,69?21? W,Sustainable anthropogenic activities allowed,N/A,N/A,N/A
+#413,Martínez 2002,1,Las Cruces,Marine reserve,N/A,N/A,N/A,Las Cruces,33° 30' S,71° 38’ W,N/A,N/A,N/A,Intertidal
+#413,Martínez 2002,2,El Quisco,MEABR,N/A,N/A,N/A,El Quisco,33° 23' S,71° 42’ W,N/A,N/A,N/A,Intertidal
+#440,Moreno 1998,1,Mehuin Marine Reserve,Marine reserve,N/A,N/A,N/A,Maiquillahue Bay,"39° 25''28"" S","73°13'5"" W",N/A,N/A,N/A,N/A
+#398,Gelcich 2005,1,AG San Pedro,MEABR,N/A,4,N/A,Los Vilos,31° 55' S,71° 00' S,N/A,N/A,Fishing syndicate,N/A
+#398,Gelcich 2005,2,Cooperativa Los Vilos,MEABR,N/A,4,N/A,Los Vilos,31° 55' S,71° 00' S,N/A,N/A,Fishing syndicate,N/A
+#398,Gelcich 2005,3,Los Lobos,MEABR,N/A,1,N/A,Los Vilos,31° 55' S,71° 00' S,N/A,N/A,Fishing syndicate,N/A
+#289,Gelcich 2013,1,Lafken Mapu Lahual,Multiple-use MPA,N/A,5,4463 ha,Lafken Mapu Lahual,40°37?S,40°48?S,"Contains no-take, sustainable use, and buffer zones",N/A,Government,N/A
+#391,Gonzalez 2006,1,Unspecified / not named (X42),MEABR,N/A,N/A,N/A,Region IV to Region III,N/A,N/A,N/A,N/A,N/A,N/A
+#79,Petit 2022,1,Motu Motiro Hiva Marine Park (MMHMP),Marine park,N/A,N/A,N/A,Salas y Gomez Island,N/A,N/A,No-take,N/A,N/A,N/A
+#79,Petit 2022,2,Rapa Nui,Multiple-use MPA,N/A,N/A,N/A,Rapa Nui,N/A,N/A,"Industrial fishing restricted, no restrictions on nearshore activities",N/A,N/A,N/A
+#246,Oyanedel 2016,1,Navidad MPA,No-take MPA,N/A,7,20 ha,Navidad,N/A,N/A,N/A,N/A,"Local municipality, artisanal fishers, Pontificia Universidad Católica de Chile",N/A
+#246,Oyanedel 2016,2,Punta de Lobos MPA,No-take MPA,N/A,6,50 ha,Punta de Lobos,N/A,N/A,N/A,N/A,Neighbourhood association,N/A
+#198,Petit 2018,1,National (X20),MPA,N/A,,N/A,Chile,N/A,N/A,"Included MPAs, parks, reserves, and National Sanctuaries",N/A,N/A,N/A
+#213,Ruano-Chamorro 2017,1,Quintay,TURF,N/A,N/A,N/A,Quintay,33° 11? S,71° 41? W,N/A,N/A,Fishers' union,N/A
+#213,Ruano-Chamorro 2017,2,Quintay,TURF,N/A,N/A,N/A,Quintay,33° 11? S,71° 41? W,N/A,N/A,Fishers' union,N/A
+#213,Ruano-Chamorro 2017,3,Algarrobo,TURF,N/A,N/A,N/A,Algarrobo,33° 22? S,71° 40? W,N/A,N/A,Fishers' union,N/A
+#213,Ruano-Chamorro 2017,4,Algarrobo,TURF,N/A,N/A,N/A,Algarrobo,33° 22? S,71° 40? W,N/A,N/A,Fishers' union,N/A
+#213,Ruano-Chamorro 2017,5,Algarrobo,TURF,N/A,N/A,N/A,Algarrobo,33° 22? S,71° 40? W,N/A,N/A,Fishers' union,N/A
+#512,Marín 2023,1,Bio-Bio (X21),MEABR,N/A,N/A,N/A,Bio-Bio,36°46?S ,73°03?W,N/A,N/A,Fisher organisations,N/A
+#512,Marín 2023,2,Valparaíso (X16),MEABR,N/A,N/A,N/A,Valparaíso ,33°03?S,71°38?W,N/A,N/A,Fisher organisations,N/A
+#112,Garmendia 2021,1,Chañaral de Aceituno,TURF,N/A,N/A,N/A,Chañaral de Aceituno,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#112,Garmendia 2021,2,Hornos,TURF,N/A,N/A,N/A,Hornos,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#112,Garmendia 2021,3,Chigualoco,TURF,N/A,N/A,N/A,Chigualoco,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#112,Garmendia 2021,4,Papudo,TURF,N/A,N/A,N/A,Papudo,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#112,Garmendia 2021,5,Quintay,TURF,N/A,N/A,N/A,Quintay,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#112,Garmendia 2021,6,Algarrobo,TURF,N/A,N/A,N/A,Algarrobo,N/A,N/A,N/A,N/A,Artisanal fishers,N/A
+#20,Harms 2024,1,Magdalena Island National Park,National park,N/A,N/A,45000," Cisnes Commune, Aysén Region",Between 44°20’S and 45°29’S,Between 73°20’W and 72°50’W,Restrictions on human activities,N/A,N/A,N/A
+#20,Harms 2024,2,Kawésqar National Reserve,Marine reserve,N/A,N/A,827000,"Cisnes and Aysén Communes, Aysén Region",Between 44°10’S and 46°30’S,Between 75°30’W and 73°10’W,Allows sustainable use of resources,N/A,N/A,N/A
+#20,Harms 2024,3, Las Guaitecas National Reserve,Marine reserve,N/A,N/A,2601000,Natales and Rio Verde Communes,Between 50°10’S and 54°30’S,Between 76°10’W and 71°10’W,,N/A,N/A,N/A
+#18,Zucconi 2024,1,National,MPAs,N/A,N/A,N/A,Chile,Between 18° S and 43°S,N/A,N/A,N/A,N/A,N/A
+#302,Ortiz 2013,1,La Rinconada,Marine reserve,N/A,N/A,N/A,Antofagasta Bay,N/A,N/A,N/A,N/A,N/A,Benthic
+#316,Almanza 2012,1,Bahía Mansa north,MEABR,N/A,N/A,0.4,Bahía Mansa north,40°34?S,73°44?W,N/A,N/A,N/A,Subtidal
+#316,Almanza 2012,2,Bahía Mansa south,MEABR,N/A,N/A,6,Bahía Mansa south,40°35?S,73°44?W,N/A,N/A,N/A,Subtidal
+#316,Almanza 2012,3,Maicolpué,MEABR,N/A,N/A,9,Maicolpué,40°36?S,73°45?W,N/A,N/A,N/A,Subtidal
